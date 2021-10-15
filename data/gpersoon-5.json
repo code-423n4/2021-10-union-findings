@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "MAX_TRUST_LIMIT might be too high",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/5"
+}
