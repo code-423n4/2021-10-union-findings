@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "G",
+  "title": "stake function in UserManager checks for allowance, which is also done in ERC20 transferFrom",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/24"
+}
