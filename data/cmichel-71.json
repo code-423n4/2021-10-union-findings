@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: `AssetManager.rebalance` cache last market",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/71"
+}
