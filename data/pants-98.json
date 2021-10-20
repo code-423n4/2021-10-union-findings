@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "G",
+  "title": "UToken.uErc20 field could be immutable ",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/98"
+}
