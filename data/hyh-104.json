@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "hyh",
+  "address": "0x8efe50a4b8c8b64fdc93a5b1712fd735d8223cd5",
+  "risk": "1",
+  "title": "AssetManager's rebalance function can fail if the last moneyMarket doesn't support a token and the balance gathered is odd",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/104"
+}
