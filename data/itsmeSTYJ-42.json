@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "G",
+  "title": "UserManager: allowance check in stake() function is not required",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/42"
+}
