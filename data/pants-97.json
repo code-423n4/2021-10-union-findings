@@ -1,0 +1,9 @@
+{
+  "contest": "Union Finance contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "2",
+  "title": "UToken.__UToken_init can be frontrun",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2021-10-union-findings/issues/97"
+}
